@@ -1,5 +1,7 @@
 # net-monitor — OSS版
 
+現状の構成・データ境界・検証条件は[現状仕様](docs/current-implementation.md)を参照してください。
+
 macOS向けの回線測定・CSV集計用シェルスクリプトです。実測CSVや自宅の機器構成、常駐設定は含めていません。
 
 ## 手動で測定する
